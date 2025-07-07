@@ -20,7 +20,7 @@ If the bottle has been exchanged, refilled or moved, the app needs to be used to
 Only then will the reading reflect the new filling level correctly.
 As the 2.4GHz Frequenz is used by a lot of devices, it may happen that a connection / reconnection fails. Therefore it is advisable to try a few times. 
 This has been added to re-connect and connect.
-The device requests connection paramters that I have set to the same value during initialisation [updateConnParams(80,160,0,400)]. This will save a little time while connecting.
+The device requests connection parameters that I have set to the same value during initialisation [updateConnParams(80,160,0,400)]. This will save a little time while connecting.
 
 The NimBLE-Arduino BLE stack (2.3.2) is used for the connection. https://github.com/h2zero/NimBLE-Arduino
 
